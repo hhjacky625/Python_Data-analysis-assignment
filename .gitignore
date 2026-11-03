@@ -1,6 +1,5 @@
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
 # Python
 __pycache__/
@@ -14,8 +13,9 @@ env/
 Thumbs.db
 desktop.ini
 
-# 临时脚本 / temp scripts
-extract_images.py
-
-# 工作区内部数据 / workspace internals
+# Workspace internals & helper scripts (not part of the deliverable)
 .workbuddy/
+fix_en.py
+
+# Chinese version of the notebook (kept locally, not published)
+Data_Analysis_Assignment_CN.ipynb
