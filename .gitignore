@@ -16,3 +16,6 @@ desktop.ini
 
 # 临时脚本 / temp scripts
 extract_images.py
+
+# 工作区内部数据 / workspace internals
+.workbuddy/
