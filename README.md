@@ -13,8 +13,8 @@
 
 The assignment consists of 6 questions. Each question has its own section in the notebook (theory questions are answered in Markdown, hands-on questions include runnable code with saved outputs).
 
-| # | Question | Type | Section content |
-|---|---|---|---|
+| # | Question 
+|---|---
 | 1 | What steps are involved in data preprocessing?
 | 2 | What is an outlier?
 | 3 | Reproduce an elegant sin and cos plot
