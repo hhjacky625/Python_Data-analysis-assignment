@@ -9,24 +9,23 @@
 
 ---
 
-## 📌 Assignment Requirements
+##  Assignment Requirements
 
 The assignment consists of 6 questions. Each question has its own section in the notebook (theory questions are answered in Markdown, hands-on questions include runnable code with saved outputs).
 
 | # | Question | Type | Section content |
 |---|---|---|---|
-| 1 | What steps are involved in data preprocessing? | Theory | Cleaning / integration / transformation / reduction / splitting |
-| 2 | What is an outlier? | Theory | Definition, causes, 3σ and IQR detection rules, how to handle them |
-| 3 | Reproduce an elegant sin and cos plot | Plotting | π ticks, centered spines, hidden borders, legend |
-| 4 | Draw a grid of scatter plots with `plt.subplot` | Plotting | 2×2 subplots of penguins feature pairs, colored by species |
-| 5 | Draw a boxplot and explain each part of the box | Plotting + explanation | Box / quartiles / median line / whiskers / outliers annotated |
-| 6* | Use the penguins dataset: explore its features, draw a scatter plot, boxplot, violin plot and pair plot, and perform PCA | Comprehensive | Data exploration → 4 types of plots → standardization + PCA |
-
+| 1 | What steps are involved in data preprocessing?
+| 2 | What is an outlier?
+| 3 | Reproduce an elegant sin and cos plot
+| 4 | Draw a grid of scatter plots with `plt.subplot` 
+| 5 | Draw a boxplot and explain each part of the box 
+| 6* | Use the penguins dataset: explore its features, draw a scatter plot, boxplot, violin plot and pair plot, and perform PCA 
 > Question 6 (marked with \*) is the bonus question and the main body of this assignment.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -47,7 +46,7 @@ All cell outputs (figures and statistics) have been executed and saved inside th
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/hhjacky625/Python_Data-analysis-assignment.git
@@ -65,7 +64,7 @@ Open `Data_Analysis_Assignment.ipynb` and click **Run All** to reproduce every r
 
 ---
 
-## 🔍 What's Inside
+##  What's Inside
 
 **Q1–Q2**: Concept overview of data preprocessing and outliers, with comparison tables of the steps / detection methods and when to use them.
 
@@ -82,7 +81,7 @@ Open `Data_Analysis_Assignment.ipynb` and click **Run All** to reproduce every r
 
 ---
 
-## 📊 Result Previews
+##  Result Previews
 
 | sin & cos curves | Boxplot annotations |
 |---|---|
@@ -102,7 +101,7 @@ Open `Data_Analysis_Assignment.ipynb` and click **Run All** to reproduce every r
 
 ---
 
-## 🛠 Environment
+##  Environment
 
 - Python 3.13
 - pandas · numpy · matplotlib · seaborn · scikit-learn · jupyter
